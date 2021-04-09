@@ -1,5 +1,7 @@
 # ECMAScript proposal: `Promise.any` + `AggregateError`
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 **Author**: Mathias Bynens, Kevin Gibbons, Sergey Rubanov
 
 **Champion**: Mathias Bynens
